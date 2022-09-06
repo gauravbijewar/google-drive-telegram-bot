@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "1704320421 1323226625" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/gbisgreatbot"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "680540043868-mdoof8hln8ug9rpcqkjtkuhqg71mcsev.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
