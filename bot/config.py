@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5712359945:AAEIW7q4gK0PlN-fbIu5_dkNEpw2hmLOyYA"
+    APP_ID = "12540447"
+    API_HASH = "206d8980ac67c82b562ac7b6baacc95c"
+    DATABASE_URL = "postgres://rpvfwhvdwyormn:57f81f6074dcabf1ea126b3c33883710a1b6725d2b1bad190fc18a6a432a4aff@ec2-44-210-36-247.compute-1.amazonaws.com:5432/dae6f4vntdp01t"
+    SUDO_USERS = "1704320421 1323226625" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/gbisgreatbot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
